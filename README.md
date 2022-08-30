@@ -6,3 +6,4 @@
 4. [Cars Assemble](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/cars-assemble/CarsAssemble.cs)
 5. [Interest is Interesting](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/interest-is-interesting/InterestIsInteresting.cs)
 6. [Roll the Die](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/roll-the-die/RollTheDie.cs)
+7. [Log Levels](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/log-levels/LogLevels.cs)
