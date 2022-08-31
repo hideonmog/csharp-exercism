@@ -9,3 +9,5 @@
 7. [Log Levels](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/log-levels/LogLevels.cs)
 8. [Elon's Toys](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/elons-toys/ElonsToys.cs)
 9. [Bird Watcher](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/bird-watcher/BirdWatcher.cs)
+10. [Squeaky Clean](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/squeaky-clean/SqueakyClean.cs)
+11. [Need for Speed](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/need-for-speed/NeedForSpeed.cs)
