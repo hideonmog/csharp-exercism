@@ -11,3 +11,4 @@
 9. [Bird Watcher](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/bird-watcher/BirdWatcher.cs)
 10. [Squeaky Clean](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/squeaky-clean/SqueakyClean.cs)
 11. [Need for Speed](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/need-for-speed/NeedForSpeed.cs)
+12. [Booking for Beauty](https://github.com/hideonmog/csharp-exercism/blob/main/exercises/booking-up-for-beauty/BookingUpForBeauty.cs)
